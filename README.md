@@ -16,7 +16,7 @@ Want to collaborate on something cool with me? [Find me here](https://jorijn.com
 
 ## Some work statistics 📈
 
-I joined Github **13** years ago.
+I joined Github **14** years ago.
 
-Since then, I pushed **1697** commits, opened **44** issues, submitted **81** pull
+Since then, I pushed **1700** commits, opened **44** issues, submitted **81** pull
 requests, received **319** stars across **48** personal projects and contributed to **11** public repositories.
