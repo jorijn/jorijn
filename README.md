@@ -18,5 +18,5 @@ Want to collaborate on something cool with me? [Find me here](https://jorijn.com
 
 I joined Github **16** years ago.
 
-Since then, I pushed **4893** commits, opened **62** issues, submitted **256** pull
+Since then, I pushed **4896** commits, opened **62** issues, submitted **260** pull
 requests, received **350** stars across **61** personal projects and contributed to **16** public repositories.
