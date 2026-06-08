@@ -1,6 +1,6 @@
 Hey! 👋
 
-I'm a 36-year-old developer from Brabant, The Netherlands 🇳🇱. I've been dabbling in tech from the early 2004's on, and
+I'm a 31-year-old developer from Brabant, The Netherlands 🇳🇱. I've been dabbling in tech from the early 2004's on, and
 since then, I learned an incredible amount about software engineering, architecture, and infrastructure.
 
 Most of the time, I work on PHP projects using Symfony components or frameworks like Symfony or Laravel. On occasion,
@@ -18,5 +18,5 @@ Want to collaborate on something cool with me? [Find me here](https://jorijn.com
 
 I joined Github **17** years ago.
 
-Since then, I pushed **5555** commits, opened **61** issues, submitted **132** pull
-requests, received **371** stars across **69** personal projects and contributed to **12** public repositories.
+Since then, I pushed **5585** commits, opened **61** issues, submitted **132** pull
+requests, received **371** stars across **70** personal projects and contributed to **12** public repositories.
