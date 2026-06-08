@@ -1,6 +1,6 @@
 Hey! 👋
 
-I'm a 31-year-old developer from Brabant, The Netherlands 🇳🇱. I've been dabbling in tech from the early 2004's on, and
+I'm a 36-year-old developer from Brabant, The Netherlands 🇳🇱. I've been dabbling in tech from the early 2004's on, and
 since then, I learned an incredible amount about software engineering, architecture, and infrastructure.
 
 Most of the time, I work on PHP projects using Symfony components or frameworks like Symfony or Laravel. On occasion,
